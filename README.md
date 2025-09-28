@@ -4,7 +4,9 @@ A comprehensive web-based inventory management system built with **Streamlit** a
 
 ## 🚀 Live Demo
 
-[View Dashboard](link-to-deployed-app) | [Video Walkthrough](link-to-demo-video)
+https://github.com/user-attachments/assets/b1fcbbfc-7e48-4c75-a71b-e117e5dc9055
+
+_📹 [Download Full Demo Video](./video%20walk-through/project-video%20demo.mp4)_
 
 ## 📋 Table of Contents
 
